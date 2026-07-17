@@ -2,6 +2,10 @@
 
 An integrated mechatronics and IoT project focused on designing a wearable medical bracelet for continuous health monitoring. This project encompasses the full product development lifecycle, from system modeling to hardware design and mobile application deployment.
 
+<p align="center">
+  <img src="Projet_Technique_Organise/08_Conception_3D_CAD/Medical_Ultraband_Inside_Engraving_black_2__04608.png" alt="Smart Medical Bracelet Render" width="450">
+</p>
+
 ---
 
 ## 🚀 Key Engineering Dimensions
